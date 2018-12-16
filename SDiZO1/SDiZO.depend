@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1522936091 source:c:\users\pucek\desktop\iv semestr\sdizo\main.cpp
+	<iostream>
+	"Tablica.h"
+	"Lista.h"
+	"Kopiec.h"
+	"Generator_liczb.h"
+
+1521579455 source:c:\users\pucek\desktop\iv semestr\sdizo\src\tablica.cpp
+	"Tablica.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1521579455 c:\users\pucek\desktop\iv semestr\sdizo\include\tablica.h
+
+1520710063 source:c:\users\pucek\desktop\iv semestr\sdizo\src\stos.cpp
+	"Stos.h"
+
+1520712756 c:\users\pucek\desktop\iv semestr\sdizo\include\stos.h
+
+1520780145 source:c:\users\pucek\desktop\iv semestr\sdizo\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1522783844 c:\users\pucek\desktop\iv semestr\sdizo\include\lista.h
+
+1520762580 source:c:\users\pucek\desktop\iv semestr\sdizo\src\element.cpp
+	"Element.h"
+	<iostream>
+
+1520762226 c:\users\pucek\desktop\iv semestr\sdizo\include\element.h
+
+1522933756 source:c:\users\pucek\desktop\iv semestr\sdizo\src\kopiec.cpp
+	"Kopiec.h"
+	<iostream>
+
+1522933230 c:\users\pucek\desktop\iv semestr\sdizo\include\kopiec.h
+
+1522935973 c:\users\pucek\desktop\iv semestr\sdizo\include\generator_liczb.h
+
+1522936307 source:c:\users\pucek\desktop\iv semestr\sdizo\src\generator_liczb.cpp
+	"Generator_liczb.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1523222298 source:f:\sdizo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<iomanip>
+	"Tablica.h"
+	"Lista.h"
+	"Kopiec.h"
+	"Generator_liczb.h"
+
+1523140672 f:\sdizo\include\tablica.h
+
+1523217256 f:\sdizo\include\lista.h
+	<iostream>
+	<string.h>
+
+1523184556 f:\sdizo\include\kopiec.h
+	<iostream>
+	<conio.h>
+
+1522935974 f:\sdizo\include\generator_liczb.h
+
+1523189182 source:f:\sdizo\src\generator_liczb.cpp
+	"Generator_liczb.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1523222534 source:f:\sdizo\src\kopiec.cpp
+	"Kopiec.h"
+	<iostream>
+	<fstream>
+	<iostream>
+
+1523217556 source:f:\sdizo\src\lista.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"Lista.h"
+
+1523212144 source:f:\sdizo\src\tablica.cpp
+	"Tablica.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+
